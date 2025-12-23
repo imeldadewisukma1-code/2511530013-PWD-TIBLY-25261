@@ -1,1 +1,8 @@
-# pertemuan-03
+# pertemuan-03 
+
+Nim : 2511530013 <br
+Nama : Imelda dewi Sukma<br><br>
+
+Hari ini, selasa 23 desember 2025, saya belajar:
+<ol>
+<li>menggunakan file index.html pertemuan-02 untuk file index.html peretemuan-03</li>
