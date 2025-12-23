@@ -7,3 +7,5 @@ Imelda dewi sukma<br>
 belajar:
 <ol>
 <li>emet untuk struktur html5</li>
+<li>emet untuk header+main+footer</li>
+>
