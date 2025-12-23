@@ -13,3 +13,4 @@ belajar:
 <li>tag p di dalam footer</li>
 <li>ganti title dokumen</li>
 <li>mengisi header</li>
+<li>mengisi main untuk home, about, contact</li>
