@@ -14,3 +14,5 @@ belajar:
 <li>ganti title dokumen</li>
 <li>mengisi header</li>
 <li>mengisi main untuk home, about, contact</li>
+<li>mengisi footer dengan html entity</li>
+<ol>
