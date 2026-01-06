@@ -14,4 +14,5 @@ belajar:
 <li>membuat styling untuk selector ID #about elemen strong</li>
 <li>membuat styling untuk selector ID #about mode responsif (mobile)</li>
 <li>section#contact groups selector</li>
+<li>section#contact groups selector h2</li>
 </ol>
