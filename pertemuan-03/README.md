@@ -7,3 +7,5 @@ Imelda dewi sukma<br>
 belajar:
 <ol>
 <li>copy index.html pertemuan-02 ke index.html pertemuan-03</li>
+<li>mengisi section about</li>
+<li>mengisi section contact dengan emmet abbreviation</li> 
