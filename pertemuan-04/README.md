@@ -1,1 +1,16 @@
 # pertemuan-04
+
+Nim: 2511530013
+Nama: Imelda dewi sukma
+
+Hari ini, Rabu 06 januari 2026, saya mempelajari :
+<ol>
+<li>copy-paste isi index.html (pertemuan-03) ke index.html (pertemuan-04)</li>
+<li>ganti internal css ke eksternal css</li></li>
+<li>styling header</li>
+<li>styling section#home</li>
+<li>styling footer</li>
+<li>styling navigasi</li>
+<li>styling header mode mobile</li>
+</ol>
+ 
